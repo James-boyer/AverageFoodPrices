@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Average food prices</string>
+    <string name="convertButton">Convert</string>
+    <string name="pricehistoryButton">Go to item price history</string>
+    <string name="toListButton">Go to list of all items</string>
+    <string name="sortByNameButton">Sort by name</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_food_list">FoodList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_price_history">PriceHistoryActivity</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About</string>
+    <string name="menu_about_msg">Created by James Boyer for MAP524, attending Seneca College</string>
+    <string name="list_menu_help">Simply browse through the list to find any item you want, click on that item to go to its item view.</string>
+    <string name="search_menu_help">Start typing a name of an item and if it is present in the database it will pop up, click on the item name to proceed to the item view.</string>
+    <string name="item_menu_help">Type in a specific volume/weight in the text box, click convert to see the corresponding average price for that weight.</string>
+    <string name="history_menu_help">View the history of prices for this item from previous months, you can add another item to the graph by typing a name of an item and clicking on it once it pops up.</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+
+</resources>
